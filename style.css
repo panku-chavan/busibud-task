@@ -32,6 +32,8 @@
     border-radius: 50px !important;
     height: 50px;
     width: 200px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
 }
 
 section{
@@ -64,4 +66,34 @@ section{
 .card1 h6{
     margin-top: 50px;
     margin-bottom: 20px;
+}
+
+#section3{
+    margin-top: 60px;
+}
+
+.section4{
+    margin-top: 50px;
+    margin-bottom: 5rem;
+    background-color: aliceblue;
+    
+    border-radius: 30px !important;
+    box-shadow: inset 0 -3em 3em rgba(241, 237, 237, 0.1), 
+    0.2em 0.4em 3em rgba(0, 0, 0, 0.3);
+}
+
+.s4-items{
+    gap: 40px;
+    justify-content: center;
+}
+.s4-card{
+    border: none !important;
+    width: 300px;
+    margin-top: 50px;
+    border-radius: 30px !important;
+    padding: 20px;
+    background-color:white;
+    box-shadow: inset 0 -3em 3em rgba(241, 237, 237, 0.1), 
+    0.2em 0.4em 3em rgba(0, 0, 0, 0.3);
+
 }
