@@ -117,3 +117,16 @@ opacity: 1;
 .section5 h6{
     padding-top: 20px;
 }
+.footer{
+    height: 40vh;
+    margin-top: 30vh;
+    background-color: black;
+}
+.footer h6{
+    margin-top: ;
+    text-align:center;
+    color: #FFFFFF;
+}
+.fd{
+    height: 30vh;
+}

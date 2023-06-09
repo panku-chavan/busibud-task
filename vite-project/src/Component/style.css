@@ -1,0 +1,140 @@
+
+.header{
+    text-align: center;
+}
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.nav-link{
+    color: black !important; 
+    align-items: center;
+    font-weight: bold !important;
+
+}
+.nav-link:hover{
+    color: blue !important;
+}
+.img{
+    margin-top: 30px;
+}
+.lorem-text{
+    margin-top: 40px;
+}
+.lorem-text-1{
+    margin-top: 60px;
+}
+.btn{
+    border-radius: 50px !important;
+    height: 50px;
+    width: 200px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+
+section{
+    margin-top: 90px;
+}
+.cards{
+    margin-top: 50px;
+    gap: 40px;
+    justify-content: center;
+}
+.card{
+    border: none !important;
+    width: 300px;
+    margin-top: 50px;
+    border-radius: 20px !important;
+    padding: 20px;
+    box-shadow: 0px 0px 5px 0px  ;
+}
+.cardp{
+    margin-top: 10px;
+}
+.card1{
+    border: none !important;
+    width: 330px;
+    
+    margin-top: 50px;
+    border-radius: 20px !important;
+    padding: 20px;
+}
+.card1 h6{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#section3{
+    margin-top: 60px;
+}
+
+.section4{
+    margin-top: 50px;
+    margin-bottom: 5rem;
+    background-color: aliceblue;
+    height: 350px;
+    border-radius: 30px !important;
+    box-shadow: inset 0 -3em 3em rgba(241, 237, 237, 0.1), 
+    0.2em 0.4em 3em rgba(0, 0, 0, 0.3);
+}
+.section41{
+    margin-top: 50px;
+    margin-bottom: 5rem;
+    background-color: aliceblue;
+    border-radius: 30px !important;
+    box-shadow: inset 0 -3em 3em rgba(241, 237, 237, 0.1), 
+    0.2em 0.4em 3em rgba(0, 0, 0, 0.3);
+}
+
+.s4-items{
+    gap: 40px;
+    justify-content: center;
+}
+.s4-card{
+    border: none !important;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    border-radius: 30px !important;
+    padding: 20px;
+    background-color:white;
+    box-shadow: inset 0 -3em 3em rgba(241, 237, 237, 0.1), 
+    0.2em 0.4em 3em rgba(0, 0, 0, 0.3);
+
+}
+
+.circle-btn{
+    border-radius: 100%;
+   
+width: 62px;
+height: 63px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 7px 17px #00000029;
+opacity: 1;
+}
+.s5-items{
+    margin-top: 100px;
+    gap: 150px;
+    justify-content: center;
+}
+.section5 h6{
+    padding-top: 20px;
+}
+.footer{
+    height: 40vh;
+    margin-top: 30vh;
+    background-color: black;
+}
+.footer h6{
+    margin-top: ;
+    text-align:center;
+    color: #FFFFFF;
+}
+.fd{
+    height: 30vh;
+}
